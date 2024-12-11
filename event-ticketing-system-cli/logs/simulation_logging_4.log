@@ -1,0 +1,29 @@
+[2024-12-11 20:08:21] INFO: Starting the ticketing system simulation...
+[2024-12-11 20:09:13] INFO: Maximum ticket capacity set to: 30
+[2024-12-11 20:09:14] INFO: Total number of tickets set to: 20
+[2024-12-11 20:09:19] INFO: Number of vendors: 1
+[2024-12-11 20:09:20] INFO: Vendor release rate set to: 1000 milliseconds
+[2024-12-11 20:09:21] INFO: Number of customers: 2
+[2024-12-11 20:09:22] INFO: Customer retrieval rate set to: 1000 milliseconds
+[2024-12-11 20:09:22] INFO: Ticket pool initialized with 20 tickets.
+[2024-12-11 20:09:23] INFO: Customer-1 bought 1 ticket. Remaining tickets: 17
+[2024-12-11 20:09:23] INFO: Customer-2 bought 1 ticket. Remaining tickets: 17
+[2024-12-11 20:09:23] INFO: Vendor-1 released 1 ticket. Remaining tickets: 19
+[2024-12-11 20:09:24] INFO: Customer-2 bought 1 ticket. Remaining tickets: 15
+[2024-12-11 20:09:24] INFO: Customer-1 bought 1 ticket. Remaining tickets: 15
+[2024-12-11 20:09:24] INFO: Vendor-1 released 1 ticket. Remaining tickets: 14
+[2024-12-11 20:09:25] INFO: Customer-2 bought 1 ticket. Remaining tickets: 13
+[2024-12-11 20:09:25] INFO: Customer-1 bought 1 ticket. Remaining tickets: 12
+[2024-12-11 20:09:25] INFO: Vendor-1 released 1 ticket. Remaining tickets: 11
+[2024-12-11 20:09:26] INFO: Customer-2 bought 1 ticket. Remaining tickets: 10
+[2024-12-11 20:09:26] INFO: Customer-1 bought 1 ticket. Remaining tickets: 9
+[2024-12-11 20:09:26] INFO: Vendor-1 released 1 ticket. Remaining tickets: 8
+[2024-12-11 20:09:27] INFO: Customer-2 bought 1 ticket. Remaining tickets: 7
+[2024-12-11 20:09:27] INFO: Customer-1 bought 1 ticket. Remaining tickets: 6
+[2024-12-11 20:09:27] INFO: Vendor-1 released 1 ticket. Remaining tickets: 5
+[2024-12-11 20:09:28] INFO: Customer-2 bought 1 ticket. Remaining tickets: 4
+[2024-12-11 20:09:28] INFO: Customer-1 bought 1 ticket. Remaining tickets: 3
+[2024-12-11 20:09:28] INFO: Vendor-1 released 1 ticket. Remaining tickets: 2
+[2024-12-11 20:09:29] INFO: Customer-2 bought 1 ticket. Remaining tickets: 1
+[2024-12-11 20:09:29] INFO: Customer-1 bought 1 ticket. Remaining tickets: 0
+[2024-12-11 20:09:33] INFO: Ticketing system simulation has ended.
